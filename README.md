@@ -1,4 +1,4 @@
-![Document Emulator](https://github.com/user-attachments/assets/dfcda7a6-edcd-4f21-a605-02ca86e7c065)
+![Document Emulator](https://github.com/user-attachments/assets/b0715781-92a9-4a78-a366-0f55ec243e66)
 
 > Emulate and convert the style, format, and structure of documents.
 
