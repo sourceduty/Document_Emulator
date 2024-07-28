@@ -24,6 +24,8 @@ The adaptation process involves generating new content that mirrors the original
 [Text Emulator](https://github.com/sourceduty/Text_Emulator)
 <br>
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
+<br>
+[Video Emulator](https://chatgpt.com/g/g-NPtn9zP1V-video-emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
